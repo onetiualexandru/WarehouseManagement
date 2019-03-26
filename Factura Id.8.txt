@@ -1,0 +1,10 @@
+Factura Id.8
+Product Id: 9
+Product Name: Bec
+Product Price: 19 RON
+Ordered quantity: 5
+Client Id: 10
+Client Name: Mr. Juve
+Client Address: Manele Pe Viata
+Client Email: juve@manele.manele
+Client Age: 36

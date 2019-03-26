@@ -1,0 +1,10 @@
+Factura Id.5
+Product Id: 1
+Product Name: Birou
+Product Price: 599 RON
+Ordered quantity: 5
+Client Id: 5
+Client Name: Ion Taranu
+Client Address: Apahida,Str. Taranului, nr. 11
+Client Email: ionTaran@hotmail.com
+Client Age: 39

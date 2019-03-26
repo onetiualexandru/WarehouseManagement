@@ -1,0 +1,10 @@
+Factura Id.1
+Product Id: 1
+Product Name: Birou
+Product Price: 599 RON
+Ordered quantity: 1
+Client Id: 1
+Client Name: Panta Liviu
+Client Address: Pian
+Client Email: pantaliviu98@yahoo.com
+Client Age: 20

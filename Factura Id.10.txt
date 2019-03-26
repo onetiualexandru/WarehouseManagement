@@ -1,0 +1,10 @@
+Factura Id.10
+Product Id: 10
+Product Name: test
+Product Price: 55 RON
+Ordered quantity: 7
+Client Id: 14
+Client Name: test
+Client Address: test
+Client Email: test@test
+Client Age: 15

@@ -1,0 +1,10 @@
+Factura Id.2
+Product Id: 1
+Product Name: Birou
+Product Price: 599 RON
+Ordered quantity: 5
+Client Id: 2
+Client Name: Onetiu Alexandru
+Client Address: Loc. Petresti,Str. Simion Barbutiu, nr.10
+Client Email: onetiualex@yahoo.com
+Client Age: 20

@@ -1,0 +1,10 @@
+Factura Id.6
+Product Id: 1
+Product Name: Birou
+Product Price: 599 RON
+Ordered quantity: 5
+Client Id: 9
+Client Name: Dani Mocanu
+Client Address: Perinteciar Aiud,Str. Liiberatii,Fara Numar
+Client Email: #dani_mocanu_liber@bani.faraon
+Client Age: 35
